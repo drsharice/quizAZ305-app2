@@ -2,7 +2,7 @@
   "name": "quizaz305-app",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://drsharice.github.io/AZ305",
+  "homepage": "https://drsharice.github.io/quizAZ305-app2",
   "type": "module",
   "scripts": {
     "dev": "vite",
